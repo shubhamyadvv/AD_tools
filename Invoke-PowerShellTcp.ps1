@@ -1,5 +1,6 @@
-function Invoke-PowerShellTcp 
-{       
+function reverse 
+{ 
+   
     [CmdletBinding(DefaultParameterSetName="reverse")] Param(
 
         [Parameter(Position = 0, Mandatory = $true, ParameterSetName="reverse")]
