@@ -90,3 +90,5 @@ http://www.labofapenetrationtester.com/
     }
 	
 }
+
+Find-WMILocalAdminAccess
